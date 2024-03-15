@@ -10,7 +10,7 @@
   <arg name="z_pos" default="0.0"/>
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <!-- origin world -->
+    <!-- origin world comment -->
     <!-- <arg name="world_name" value="$(find turtlebot3_gazebo)/worlds/turtlebot3_world.world"/> -->
     <arg name="world_name" value="$(find turtlebot3_gazebo)/worlds/my_class.world"/>
     <arg name="paused" value="false"/>
