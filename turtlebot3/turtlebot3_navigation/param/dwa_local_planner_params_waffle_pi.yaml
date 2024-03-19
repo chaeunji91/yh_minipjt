@@ -44,4 +44,8 @@ DWAPlannerROS:
 
 # Debugging
   publish_traj_pc : true
+<<<<<<< HEAD
   publish_cost_grid_pc: true
+=======
+  publish_cost_grid_pc: true
+>>>>>>> e7d4263988d8e73fa60340d5f3c48eec7b2261ca

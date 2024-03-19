@@ -39,7 +39,7 @@ BURGER_MAX_LIN_VEL = 0.22
 BURGER_MAX_ANG_VEL = 2.84
 
 WAFFLE_MAX_LIN_VEL = 8.84  # origin : 0.26
-WAFFLE_MAX_ANG_VEL = 8.82  # origin : 1.82
+WAFFLE_MAX_ANG_VEL = 1.82  # origin : 1.82
 
 LIN_VEL_STEP_SIZE = 0.01
 ANG_VEL_STEP_SIZE = 0.1
@@ -52,8 +52,8 @@ Moving around:
    a    s    d
         x
 
-w/x : increase/decrease linear velocity (Burger : ~ 0.22, Waffle and Waffle Pi : ~ 4.84)
-a/d : increase/decrease angular velocity (Burger : ~ 2.84, Waffle and Waffle Pi : ~ 4.82)
+w/x : increase/decrease linear velocity (Burger : ~ 0.22, Waffle and Waffle Pi : ~ 8.84)
+a/d : increase/decrease angular velocity (Burger : ~ 2.84, Waffle and Waffle Pi : ~ 1.82)
 
 space key, s : force stop
 
